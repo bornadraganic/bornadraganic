@@ -1,5 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Borna</h1>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=bornadraganic&theme=dark&show_icons=true&count_private=true)
+
 
 <h3 align="center">A guy who loves IT. <3</h3>
 <h4 align="center">"Programming isn't about what you know; it's about what you can figure out." - Chris Pine </h4>
