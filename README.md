@@ -15,13 +15,13 @@
 - 🤝🏽| I’m looking to collaborate on **Open Source**
 
 
-- Programming languages I use:
-  🐍 | **Python**
-  🧿 | **Lua**
-  🙊 | **C** (In progress)
+👨🏽‍💻 | **Programming languages I use:**
+-🐍 | **Python**
+-🧿 | **Lua**
+-🙊 | **C** (In progress)
 
 
-- 🚧| Projects:
-  - I'm currently working on a learning platform called **PwnGames**.
-    - Check it here: https://github.com/Cryp70m4n/PwnGames
+🚧| **Projects**:
+- I'm currently working on a learning platform called **PwnGames**.
+  - Check it here: https://github.com/Cryp70m4n/PwnGames
   
