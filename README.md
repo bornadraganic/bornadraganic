@@ -6,13 +6,19 @@
 
 💬 | Ask me about **Anything**
 - 📫 | Contact me on discord **Borna#8497**
+  
+  
 
 
 📚 | I’m currently learning: **Networking, Cloud and Development**
 - Mainly I'm studying **Networking**, because I'm preparing for **CCNA**.
+  
+  
 
 
 - 🤝🏽| I’m looking to collaborate on **Open Source**
+  
+  
 
 
 👨🏽‍💻 | **Programming languages I use:**
