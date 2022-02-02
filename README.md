@@ -35,4 +35,3 @@
   - I'm currently working on a learning platform: https://github.com/Cryp70m4n/PwnGames
   
   
-  [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=bornadraganic&repo=repo-name&show_owner=true)](https://github.com/bornadraganic/bornadraganic)
