@@ -23,7 +23,7 @@
   
 
 
-- 🤝🏽| I’m looking to collaborate on **Automatization**
+- 🤝 | I’m looking to collaborate on **Automatization**
   
   
 
