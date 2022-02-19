@@ -23,16 +23,20 @@
   
 
 
-- 🤝🏽| I’m looking to collaborate on **Open Source**
+- 🤝🏽| I’m looking to collaborate on **Automatization**
   
   
-  
+
+- 🛠️ | **OS and tools I use:** 
+  - 🐧 | **Linux**
+  - 🪟 | **Windows**
+  - 🖌️ | **Photoshop**
   
 
 
 - 👨🏽‍💻 | **Programming languages I use:**
   - 🐍 | **Python**
-  - 🧿 | **Lua**
+  - 🧿 | **Lua** (In progress)
   - 🙊 | **C** (In progress)
 
 
