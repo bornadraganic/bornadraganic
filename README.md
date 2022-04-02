@@ -17,7 +17,7 @@
   
 
 
-- 📚 | I’m currently learning: **Networking, Cloud and Development**
+- 📚 | I’m currently learning: **Networking, CynerSecurity and Development**
   - Mainly I'm studying **Networking**, because I'm preparing for **CCNA**.
   
   
