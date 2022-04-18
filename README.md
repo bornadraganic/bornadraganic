@@ -17,13 +17,13 @@
   
 
 
-- 📚 | I’m currently learning: **Networking, CynerSecurity and Development**
-  - Mainly I'm studying **Networking**, because I'm preparing for **CCNA**.
+- 📚 | I’m currently learning: **Networking, CyberSecurity, Development and Linux**
+  - At the moment I'm learning a V programming language (Vlang).
   
   
 
 
-- 🤝 | I’m looking to collaborate on **Automatization**
+- 🤝 | I’m looking to collaborate on **Automation**
   
   
 
@@ -36,12 +36,11 @@
 
 - 👨🏽‍💻 | **Programming languages I use:**
   - 🐍 | **Python**
+  - 🆕 | **V** (In progress [Mainly])
   - 🧿 | **Lua** (In progress)
   - 🙊 | **C** (In progress)
 
 
 
-- 🚧| **Projects**:
-  - I'm currently working on a learning platform: https://github.com/Cryp70m4n/PwnGames
   
   
