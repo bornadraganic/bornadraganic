@@ -36,7 +36,7 @@
 
 - 👨🏽‍💻 | **Programming languages I use:**
   - 🐍 | **Python**
-  - 🆕 | **V** (In progress [Mainly])
+  - 🆕 | **V** (In progress)
   - 🧿 | **Lua** (In progress)
   - 🙊 | **C** (In progress)
 
