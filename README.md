@@ -38,6 +38,6 @@ BLA BLA BLA
 </details>
 
 <details>
-    <summary><h3>Borna's Coding Journey</h3></summary>
+    <summary><h3>Borna's IT Journey</h3></summary>
         BLA BLA BLA
 </details>
