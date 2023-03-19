@@ -34,8 +34,9 @@ BLA BLA BLA
 <details>
     <summary><h3>Currently Studying</h3></summary>
         **I want to note that I'm not learning this all at once, but that this is on my list of things I want to learn**
-
+</details>
 
 <details>
     <summary><h3>Borna's Coding Journey</h3></summary>
         BLA BLA BLA
+</details>
