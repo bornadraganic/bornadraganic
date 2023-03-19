@@ -50,9 +50,7 @@
 
 ### Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bornadraganic&show_icons=true&locale=en" alt="bornadraganic" /></p>
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bornadraganic&theme=gruvbox&show_icons=true)
 <br/>
 
 #
