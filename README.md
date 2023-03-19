@@ -2,12 +2,12 @@
 
 <!--**`Cyber Security Enthusiast (Self-taught Ethical Hacker)`**-->
 
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF6F71&background=2200FF00&width=500&lines=Self-taught+Ethical+Hacker;Junior+Developer;Freelancer" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF6F71&background=2200FF00&width=450&lines=Cyber+Security+Enthusiast;Self-Taught+Ethical+Hacker;Junior+Developer;Freelancer)](https://git.io/typing-svg)
 
 BLA BLA BLA
 ---
 
-### Programming/Scripting/Markup languages 
+## Programming/Scripting/Markup languages 
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />
@@ -17,7 +17,7 @@ BLA BLA BLA
 
 <br/>
 
-### Tools 
+## Tools 
 
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
