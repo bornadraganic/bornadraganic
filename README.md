@@ -3,7 +3,7 @@
 <!--**`Cyber Security Enthusiast (Self-taught Ethical Hacker)`**-->
 
 <p align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF6F71&width=450&lines=Cyber+Security+Enthusiast;Self-taught+Ethical+Hacker;Entry-level+Developer;Freelancer" alt="Typing SVG" /></a></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF6F71&width=450&lines=Cyber+Security+Enthusiast.;Self-taught+Ethical+Hacker.;Entry-level+Developer.;Freelancer." alt="Typing SVG" /></a></a>
 </p>
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF6F71&width=450&lines=Cyber+Security+Enthusiast;Self-taught+Ethical+Hacker;Entry-level+Developer;Freelancer)](https://git.io/typing-svg)-->
