@@ -52,9 +52,6 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bornadraganic&show_icons=true&locale=en" alt="bornadraganic" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bornadraganic&" alt="bornadraganic" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bornadraganic&show_icons=true&locale=en&layout=compact" alt="bornadraganic" /></p>
 
 <br/>
 
