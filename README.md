@@ -20,11 +20,6 @@
 <a href="https://www.leetcode.com/bornadraganic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bornadraganic" height="30" width="40" /></a>
 </p>
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bornadraganic&show_icons=true&locale=en&layout=compact" alt="bornadraganic" /></p>-->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bornadraganic&show_icons=true&locale=en" alt="bornadraganic" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bornadraganic&" alt="bornadraganic" /></p>
 
 ---
 
@@ -50,6 +45,16 @@
 <img align="left" alt="Notion" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" />
 
 <br />
+
+#
+
+### Stats
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bornadraganic&show_icons=true&locale=en" alt="bornadraganic" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bornadraganic&" alt="bornadraganic" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bornadraganic&show_icons=true&locale=en&layout=compact" alt="bornadraganic" /></p>
 
 #
 
