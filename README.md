@@ -2,7 +2,7 @@
 
 <!--**`Cyber Security Enthusiast (Self-taught Ethical Hacker)`**-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6F71&width=435&lines=Self-taugt+Ethical+Hacker;Junior+Developer;Freelancer)](https://git.io/typing-svg)
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF6F71&background=2200FF00&width=500&lines=Self-taught+Ethical+Hacker;Junior+Developer;Freelancer" alt="Typing SVG" /></a>
 
 BLA BLA BLA
 ---
