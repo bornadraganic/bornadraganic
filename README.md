@@ -50,7 +50,7 @@
 
 ### Stats
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=bornadraganic&show_icons=true&locale=en" alt="bornadraganic" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bornadraganic&show_icons=true&locale=en" alt="bornadraganic" /></p>
 
 
 <br/>
