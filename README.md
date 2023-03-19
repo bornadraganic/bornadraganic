@@ -12,14 +12,8 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bornadraganic&label=Profile%20views&color=0e75b6&style=flat" alt="bornadraganic" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bornadraganic" alt="bornadraganic" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bornadraganicc" target="blank"><img src="https://img.shields.io/twitter/follow/bornadraganicc?logo=twitter&style=for-the-badge" alt="bornadraganicc" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center" >Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/bornadraganicc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bornadraganicc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/borna-dragani%c4%87-9018a4222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/borna-dragani%c4%87-9018a4222/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/borna_draganic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="borna_draganic" height="30" width="40" /></a>
