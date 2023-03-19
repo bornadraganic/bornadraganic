@@ -53,6 +53,7 @@
         PHP
         JavaScript
         Web Penetration Testing
+        SQL
         
 </details>
 
