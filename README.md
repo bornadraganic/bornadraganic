@@ -8,7 +8,7 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF6F71&width=450&lines=Cyber+Security+Enthusiast;Self-taught+Ethical+Hacker;Entry-level+Developer;Freelancer)](https://git.io/typing-svg)-->
 
-<p>I'm Borna, 16 years old self-taught ethical hacker, and entry-level developer. My first touch with programming was in the 5th grade of elementary school when I wrote my first lines of code in the Python programming language. But since then I didn't do much programming, but like all my peers I played games and enjoyed my childhood. I recently decided to actively start with Cyber ​​Security because it interests me and I would like to deal with it in the future. Therefore, I'm now focusing on that field of IT. I'm currently learning through platforms like TryHackMe, HackTheBox, Leetcode, etc. My goal is to continue expanding my knowledge and deliver high-quality work to clients.</p>
+<p>I'm Borna, 16 years old self-taught ethical hacker, and entry-level developer. My first touch with programming was in the 5th grade of elementary school when I wrote my first lines of code in the Python programming language. But since then I didn't do much programming, but like all my peers I played games and enjoyed my childhood. I recently decided to actively start with Cyber Security because it interests me and I would like to deal with it in the future. Therefore, I'm now focusing on that field of IT. I'm currently learning through platforms like TryHackMe, HackTheBox, Leetcode, etc. My goal is to continue expanding my knowledge and deliver high-quality work to clients.</p>
 
 ---
 
@@ -44,7 +44,7 @@
         C/C++
         PHP
         JavaScript
-        Penetration Testing
+        Web Penetration Testing
         
 </details>
 
