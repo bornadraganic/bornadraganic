@@ -41,9 +41,10 @@
     <summary><h3>Currently Studying</h3></summary>
         I want to note that I am not learning all of these at the same time, but that these are things that I want to learn to help me in my career. 
 
-        - C/C++
-        - PHP
-        - JavaScript
+        C/C++
+        PHP
+        JavaScript
+        Penetration Testing
         
 </details>
 
