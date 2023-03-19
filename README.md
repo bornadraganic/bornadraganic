@@ -12,16 +12,6 @@
 
 ---
 
-<h3 align="center" >Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/bornadraganicc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bornadraganicc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/borna-dragani%c4%87-9018a4222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/borna-dragani%c4%87-9018a4222/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/borna_draganic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="borna_draganic" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bornadraganic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bornadraganic" height="30" width="40" /></a>
-</p>
-
-
----
 
 ### Programming/Scripting/Markup languages 
 
@@ -50,7 +40,7 @@
 
 ### Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bornadraganic&theme=gruvbox&show_icons=true)
+(https://github-readme-stats.vercel.app/api?username=bornadraganic&theme=gruvbox&show_icons=true)
 <br/>
 
 #
